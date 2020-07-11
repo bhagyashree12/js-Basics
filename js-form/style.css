@@ -1,0 +1,95 @@
+#header{
+    text-align: center;
+    color: pink;
+    font-size: 30px;
+    
+}
+
+body{
+    border:1px coral solid;
+    padding: 10px;
+    margin: 50px;
+}
+
+.myformUsername label{
+    color: purple;
+    font-size: medium;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.myformUsername input{
+    color: coral;
+    font-size: medium;
+    font-family: cursive;
+    padding: 5px;
+    margin: 10px;
+}
+
+.myformEmail label{
+    color: purple;
+    font-size: medium;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.myformEmail input{
+    color: coral;
+    font-size: medium;
+    font-family: cursive;
+    padding: 5px;
+    margin: 10px;
+    margin-left: 40px;
+}
+
+.myformPassword label{
+    color: purple;
+    font-size: medium;
+    font-family: cursive;
+    padding: 10px;
+}
+
+.myformPassword input{
+    color: coral;
+    font-size: medium;
+    font-family: cursive;
+    padding: 5px;
+    margin: 10px;
+   
+}
+
+.myformButton input{
+    display: inline-flex;
+    align-items: center;
+    color: coral;
+    justify-content: center;
+    align-items: center;
+    font-family: cursive;
+    padding: 8px;
+    border-radius: 6px;
+    background-color: white;
+    border: 1px coral solid;
+    color: plum;
+}
+
+
+#btn-submit:hover{
+    color: pink;
+}
+#btn-reset:hover{
+    color: pink;
+}
+
+.msg{
+    padding: 10px;
+    margin: 10px;
+    color: rebeccapurple;
+    font-size: medium;
+}
+
+.welcome-msg{
+    padding: 10px;
+    margin: 10px;
+    color: rebeccapurple;
+    font-size: medium;
+}
