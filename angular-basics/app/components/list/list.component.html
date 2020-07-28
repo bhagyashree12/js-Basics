@@ -1,0 +1,9 @@
+<div class="container">
+<ul *ngIf="brews">
+    <li *ngFor="let brew of brews">
+        <p class="name">{{ brew.name }}</p>
+        <p class="country">{{ brew.country }}</p>
+        <a class="site" href="{{ brew.website_url }}">Website</a>  
+    </li>
+</ul>
+</div>

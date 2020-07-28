@@ -1,0 +1,35 @@
+<div class="container">
+    <div class="inside">
+        <h1>This is one way data binding</h1>
+        <p>You've clicked {{ clickCounter }} times.</p>
+        <button class ="btn" (click)="countClick()">Count</button>
+
+    </div>
+
+    <div class="inside">
+        <h1>This is Two way data Bindind</h1>
+        <input type="text" name="name" [(ngModel)]="name">
+        <br>
+        <p>Your name is <strong>{{name}}</strong></p>
+
+    </div>
+    <div class="inside">
+        <h1>This ngTemplate if else</h1>
+        <ng-template [ngIf]="clickCounter > 4" [ngIfElse]="none">
+            <p>The click counter <strong>is greater</strong> than 4.</p>
+        </ng-template>
+
+        <ng-template #none>
+            <p>The click counter is <strong>not greater</strong> than 4.</p>
+        </ng-template>
+
+    </div>
+
+    <div class="inside" [ngClass]="setClass()">
+        <h1>This is ngClasses</h1>
+        <h1 class="class">Display using ngClasses</h1>
+        
+       
+    </div>
+
+</div>

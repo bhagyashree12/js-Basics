@@ -1,0 +1,23 @@
+﻿@page
+@model SecondApplication.Pages.Form.UserFormModel
+@{
+    ViewData["Title"] = "UserForm";
+}
+
+    <form method="post">
+        <div class="form-group">
+            <label>Username</label>
+            <input type="text" asp-for="UserData.UserName"  class="form-control" id="username" aria-describedby="emailHelp">
+        </div>
+        <div class="form-group">
+            <label>City</label>
+            <input type="text" asp-for="UserData.City" class="form-control" id="city">
+        </div>
+        <div class="form-group">
+            <label>Age</label>
+            <input type="text" asp-for="UserData.Age" class="form-control" id="age">
+        </div>
+       
+        <button type="submit" class="btn btn-primary">Submit</button>
+    </form>
+
