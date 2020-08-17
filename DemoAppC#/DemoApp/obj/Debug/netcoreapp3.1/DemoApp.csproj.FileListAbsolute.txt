@@ -1,0 +1,13 @@
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.exe
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.deps.json
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.json
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.runtimeconfig.dev.json
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.dll
+B:\c#_basics\DemoApp\DemoApp\DemoApp\bin\Debug\netcoreapp3.1\DemoApp.pdb
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csprojAssemblyReference.cache
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfoInputs.cache
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.AssemblyInfo.cs
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.csproj.CoreCompileInputs.cache
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.dll
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.pdb
+B:\c#_basics\DemoApp\DemoApp\DemoApp\obj\Debug\netcoreapp3.1\DemoApp.genruntimeconfig.cache
